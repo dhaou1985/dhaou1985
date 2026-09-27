@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="🇹🇳 TUNISIE",El Watania 1
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇳 TUNISIE",El Watania 2
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
+#EXTINF:-1 group-title="🇫🇷 FRANCE",T18
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 group-title="🇫🇷 FRANCE",W9
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
+#EXTINF:-1 group-title="🇫🇷 FRANCE",TV5MONDE
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:-1 group-title="🇫🇷 FRANCE",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
